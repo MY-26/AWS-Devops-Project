@@ -1,0 +1,6 @@
+<html>
+<body>
+<h1>Welcome to AWS DevOps Project</h1>
+<p>Deployed using Jenkins and Docker.</p>
+</body>
+</html>
